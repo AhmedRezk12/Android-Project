@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News_Now</string>
+    <string name="app_name2">Update Article Info</string>
+    <string name="app_name3">Delete an Article</string>
+</resources>
